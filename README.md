@@ -1,4 +1,14 @@
 # Useful translation for non-english speakers
-This is a simple list, useful for non-English speaking parent visiting their childern abroad.
+This is a simple list, useful for non-English speaking parents visiting their loved ones abroad.
 # ترجمه جملات فرودگاهی 
 این یک لیست ساده از مکالمات ضروریه که ممکنه در طول سفر برای خانواده‌ها پیش بیاد.
+
+در مورد پلیس مرزی، علاوه بر مدارک هویتی، لازمه که بیمه و بلیط برگشت هم همراهشون باشه.
+
+
+## نحوه استفاده
+توی فایل‌ها، اطلاعات پرواز و اطلاعات تماس خودتون رو اضافه کنین. امیدوارم که سفر خوبی داشته باشن :)
+
+
+## چطور کمک کنیم؟
+اگه چیزی به ذهن‌تون میرسه یا تجربه‌ای دارین که میتونه این لیست رو کامل‌تر کنه، لطفا اون رو به فایل‌ها اضافه کنین.
